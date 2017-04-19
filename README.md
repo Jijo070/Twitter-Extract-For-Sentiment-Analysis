@@ -9,9 +9,9 @@ Download `twitter_test.py` from above and install the APIs and get the credentia
 Tweepy - `pip install tweepy`
 
 ## Twitter API credentials ##
-consumer_key = ""
-consumer_secret = ""
-access_key = ""
-access_secret =
+consumer_key = "" <br /> 
+consumer_secret = "" <br /> 
+access_key = "" <br /> 
+access_secret = "" <br /> 
 Create a twitter account and get these credentials from https://apps.twitter.com/ by following the instructions mentioned. Paste the 
 credentials in the code and run to generate the **.csv** file.
